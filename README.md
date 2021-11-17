@@ -1,4 +1,4 @@
-# 카카오미니는 어떻게 스무고개 정답을 맞출까  
+# '카카오미니는 어떻게 스무고개 정답을 맞출까' 칼럼 시뮬레이션  
 https://brunch.co.kr/@kakao-it/157
 
 ```java
@@ -30,7 +30,6 @@ https://brunch.co.kr/@kakao-it/157
 						likeli = (1 - likelihood[k][j]);
 					}
 					sum = (likeli * (posterior[j]));
-					//System.out.printf("sum : %.8f \n", sum);
 					denominator += sum;
 				}
 				buf[i] = numerator / denominator;
