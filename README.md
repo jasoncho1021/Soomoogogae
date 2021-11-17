@@ -45,5 +45,6 @@ https://brunch.co.kr/@kakao-it/157
 	}
 
 ```
+## 토끼 기준으로 질문에 응답한 경우의 사후확률들  
 
 ![image](https://user-images.githubusercontent.com/12610035/142224332-37c6e555-241c-44ab-97f4-4e5120d308d8.png)
